@@ -4,7 +4,7 @@ This project demonstrates my abilities to navigate dataframes, import json data 
 
 ## Test/Debug
 
-You can download the file and run through jupyter notebook, or the *.py file and use the json file in the Resources directory
+You can download the file and run through jupyter notebook, or the *.py file and use the json file in the Resources directory. Examples of the output files are in the Output directory
 
 ### Heroes of Pymoli
 
